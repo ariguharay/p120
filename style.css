@@ -1,0 +1,25 @@
+img 
+{
+    height: 300px;
+    width:300px;
+}
+p {
+    font-size: 28px;
+    font-family:Verdana;
+    font-weight: bold;
+    font-style: oblique;
+    color:#B53471;
+}
+body
+{
+    text-align: center;
+    background-image: linear-gradient(to bottom right,#abbff0,#c5fad7);
+}
+#m1 {
+    background-color: rgb(212, 158, 158);
+    font-size: 35px;
+}
+h4 {
+font-size: 20px;
+font-weight: bold;
+}
